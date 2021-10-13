@@ -3,7 +3,6 @@ body{
     grid-template-areas: 
     "a a a a a"
     ". b b c .";
-    /* "d d d . ."; */
     font-family: sans-serif;
 }
 
@@ -69,7 +68,6 @@ form{
 }
 #previousSearches{
     grid-area: c;
-    /* justify-self: start; */
     padding-top: 20px;
 }
 
